@@ -2,5 +2,8 @@
   "name": "reality-eth",
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "volta": {
+    "node": "18.20.6"
   }
 }

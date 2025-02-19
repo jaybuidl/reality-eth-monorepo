@@ -50,5 +50,8 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "5bba76f537e2056abeab2d4bfd33f3052287d14f"
+  "gitHead": "5bba76f537e2056abeab2d4bfd33f3052287d14f",
+  "volta": {
+    "node": "18.20.6"
+  }
 }
